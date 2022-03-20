@@ -1,0 +1,32 @@
+ form input[type="button"]:hover{
+    background-color: rgb(38, 199, 46);
+    color: white;
+    border: radius 12px;
+    
+}
+form input[type="button"]{
+    font: size 30px;
+    border-radius: 10px;
+    display: flexbox;
+    flex-direction: row;
+    padding: 15px;
+    padding: bottom 0px;
+    background-color:rgba(243, 241, 243, 0.719) ;
+    margin-bottom:0;
+    
+
+}
+body{
+    font: size 12px;
+    background-color:rgb(38, 199, 46);
+}
+form{
+    border-radius: 20px;
+    background-color:rgb(18, 18, 39);
+    padding-bottom: 20px;
+}
+div{
+    
+    margin-right: 200px;
+    margin-left: 200px;
+}
